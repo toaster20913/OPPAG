@@ -68,5 +68,6 @@ submit_button.pack(pady=10)
 # Start the quiz by showing the first question
 show_question(0)
 
+
 # Run the main event loop
 root.mainloop()
